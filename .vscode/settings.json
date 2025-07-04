@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "/usr/local/bin/python",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/__init__.py": true,
+    "**/__pycache__": true,
+    "**/.gitignore": true,
+    ".editorconfig": true
+  }
+}
