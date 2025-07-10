@@ -22,7 +22,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Changed
 
-Agent Factory was updated to include the new RAG agent, which can now handle document-based queries in addition to database queries. Also, the agent's instructions were updated to reflect the new capabilities (Added workflow structure as well).
+- Agent Factory was updated to include the new RAG agent, which can now handle document-based queries in addition to database queries. Also, the agent's instructions were updated to reflect the new capabilities (Added workflow structure as well).
 
 ## [1.0.0] - 2025-07-06
 
